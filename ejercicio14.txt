@@ -1,0 +1,4 @@
+Utilizando HTML y Bootstrap, crear una página de perfil de usuario, con datos ficticios relacionados a la persona de ejemplo. Incluye su formación académica y perfil laboral. La página debe visualizarse como se puede apreciar a continuación:
+
+Versión de escritorio / laptop
+Al terminar de crear la página, publicar en un repositorio de GitHub (puede ser público o privado, según tu preferencia).
