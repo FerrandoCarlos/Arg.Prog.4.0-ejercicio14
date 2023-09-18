@@ -2,3 +2,5 @@ Utilizando HTML y Bootstrap, crear una página de perfil de usuario, con datos f
 
 Versión de escritorio / laptop
 Al terminar de crear la página, publicar en un repositorio de GitHub (puede ser público o privado, según tu preferencia).
+
+comentario nuevo
