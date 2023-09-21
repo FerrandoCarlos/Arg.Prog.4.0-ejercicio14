@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Montserrat&family=Open+Sans:wght@400;700&family=Poppins:wght@400;700&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: #f9f2e7;
+}
+#left-side{
+    background-color: #00a8c6;
+}
+
+#right-side{
+    background-color: #40c0cb;
+}
+
+.list-group.list-group-flush > .list-group-item{
+    background-color: #aee239;
+}
+
+#right-side > .card{
+    background-color: #8fbe00;
+}
