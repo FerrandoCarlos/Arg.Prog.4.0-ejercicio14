@@ -2,7 +2,20 @@
 
 *{
     font-family: 'Montserrat', sans-serif;
+}   
+.row > *{
+    color:#f9f2e7;
+}
+
+.card .card-header{
     color: #f9f2e7;
+}
+.card-body > .card-title,.card-text {
+    color: #f9f2e7;
+}
+.list-group.list-group-flush > .list-group-item{
+    color: #f9f2e7;
+    /* font-size: 1.2rem; */
 }
 #left-side{
     background-color: #00a8c6;
